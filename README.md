@@ -11,6 +11,7 @@ I also have experience working with the Java UI library, JavaFX:
  - [MP3 Information Manager](https://github.com/Draylar/MP3-Information-Manager), a program for editing information stored in MP3 files
  
  In the realm of web development, some of my projects include:
+ - [Invis URL](https://github.com/Draylar/invis-url), which allows you to create invisible urls using zero-width spaces. Backend was written in Rust!
  - [Covid Dashboard](https://github.com/Draylar/covid-dashboard), a website for tracking and viewing Covid-19 statistics
  - [Trig Identity Learning](https://github.com/Draylar/trig-identity-learning) for learning Trigonometic Identities and Properties
  - [Minecraft Mapper](https://github.com/Draylar/minecraft-mapper), which keeps an up-to-date collection of Yarn mappings and maps intermediary game logs sent from clients
