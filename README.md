@@ -1,3 +1,8 @@
+### Hacktoberfest 🎃
+
+Looking for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) opportunities? My primary repositories are tagged with Hacktoberfest, and I am happy to tag any others as long as you remind me in the PR. 
+[Identity](https://github.com/Draylar/identity/issues) in particular has a plethora of issues and I would appreciate any help I can get!
+
 ### Hi! I'm Draylar.
 
 I'm a Java developer who also has a small bit of knowledge in Python, JavaScript, and Kotlin. I primarily work on Minecraft Modding using the [Fabric Mod Loader](http://fabricmc.net/). Some of my coolest modding projects include:
