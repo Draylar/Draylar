@@ -1,21 +1,15 @@
-### Hi! I'm Draylar.
+<p align=center>Hi! I'm Draylar.</p>
 
-I'm a Java developer who also has a small bit of knowledge in Python, JavaScript, and Kotlin. I primarily work on Minecraft Modding using the [Fabric Mod Loader](http://fabricmc.net/). Some of my coolest modding projects include:
- - [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers), a hammer mod for 1.14, 1.15, and 1.16
- - [Draylar's Battle Towers](https://www.curseforge.com/minecraft/mc-mods/draylars-battle-towers), my take on the famous Battle Towers mod
- - [Identity](https://www.curseforge.com/minecraft/mc-mods/identity), a modern version of morph for 1.15 and 1.16
+![https://intotheomega.dev](https://raw.githubusercontent.com/Draylar/into-the-omega/1.18.2/assets/enigma_king_render.png)
 
-I also have experience working with the Java UI library, JavaFX:
- - [PDFReaderFX](https://github.com/Draylar/PDFReaderFX), a simple JavaFX-powered PDF reader
- - [StyleSquared](https://github.com/Draylar/StyleSquared), a material calculator
- - [MP3 Information Manager](https://github.com/Draylar/MP3-Information-Manager), a program for editing information stored in MP3 files
- 
- In the realm of web development, some of my projects include:
- - [Invis URL](https://github.com/Draylar/invis-url), which allows you to create invisible urls using zero-width spaces. Backend was written in Rust!
- - [Covid Dashboard](https://github.com/Draylar/covid-dashboard), a website for tracking and viewing Covid-19 statistics
- - [Trig Identity Learning](https://github.com/Draylar/trig-identity-learning) for learning Trigonometic Identities and Properties
- - [Minecraft Mapper](https://github.com/Draylar/minecraft-mapper), which keeps an up-to-date collection of Yarn mappings and maps intermediary game logs sent from clients
- - [Entity Model Mapper](https://github.com/Draylar/entity-model-remapper), which is used for updating MCP entity model classes to Yarn
+I'm a Java developer who also dabbles in Python, JavaScript, Kotlin, and Rust. I primarily work on Minecraft Modding using the [Fabric Mod Loader](http://fabricmc.net/). A few of my coolest projects include:
+ - [Scarlet](https://github.com/Draylar/Scarlet), an interpreted programming language designed for Minecraft.
+ - [Into The Omega](https://www.curseforge.com/minecraft/mc-mods/into-the-omega), a grand RPG mod still in heavy beta.
+ - [Omega Config](https://github.com/Draylar/omega-config), the best configuration library on the market!
+ - [Identity](https://www.curseforge.com/minecraft/mc-mods/identity), a Fabric mod that allows you to shapeshift into any creature!
+
+ ![](https://raw.githubusercontent.com/Draylar/into-the-omega/1.18.2/assets/eye.png)
+
  
  
  
