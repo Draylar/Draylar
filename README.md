@@ -1,6 +1,6 @@
 <p align=center>Hi! I'm Draylar.</p>
 
-![https://intotheomega.dev](https://raw.githubusercontent.com/Draylar/into-the-omega/1.18.2/assets/enigma_king_render.png)
+![https://intotheomega.dev](https://intotheomega.dev/images/enigma_front_export.png)
 
 I'm a Java developer who also dabbles in Python, JavaScript, Kotlin, and Rust. I primarily work on Minecraft Modding using the [Fabric Mod Loader](http://fabricmc.net/). A few of my coolest projects include:
  - [Scarlet](https://github.com/Draylar/Scarlet), an interpreted programming language designed for Minecraft.
